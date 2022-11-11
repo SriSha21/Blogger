@@ -1,2 +1,2 @@
-# Blogger_tremplate
- responsive site
+# Blogger_template
+ responsive website tempate
